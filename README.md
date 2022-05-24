@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Angular, advanced Typescript, Rest API**
 
-- 👨‍💻 All of my projects are available at [https://www.carlosplanchart.com/](carlosplanchart.com) 
+- 👨‍💻 All of my projects are available at [carlosplanchart.com](https://www.carlosplanchart.com/) 
 
 - 💬 Ask me about **React, Node, Express, SASS, Typescript, Svelte**
 
