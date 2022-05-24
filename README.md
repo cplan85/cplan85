@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Carlos Planchart</h1>
-<h3 align="center">A passionate Architect(Buildings!) turned even more passionate Front-end Developer</h3>
+<h3 align="center">A passionate Architect(Buildings!) turned even more passionate Full-stack Developer</h3>
 
-- 🔭 I’m currently working on [Experimental Grid Layout](https://github.com/cplan85/experimental_Grid)
+- 🔭 I’m currently working on [Advent of Code 2020](https://github.com/cplan85/AOC_exercises) 
 
 - 🌱 I’m currently learning **Angular, advanced Typescript, Rest API**
 
-- 👨‍💻 All of my projects are available at [carlosplanchart.com](carlosplanchart.com)
+- 👨‍💻 All of my projects are available at [https://www.carlosplanchart.com/](carlosplanchart.com) 
 
 - 💬 Ask me about **React, Node, Express, SASS, Typescript, Svelte**
 
