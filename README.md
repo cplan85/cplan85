@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Carlos Planchart</h1>
 <h3 align="center">A passionate Architect(Buildings!) turned even more passionate Full-stack Developer</h3>
 
-- 🔭 I’m currently working on [Advent of Code 2020](https://github.com/cplan85/AOC_exercises) 
+- 🔭 I’m completing my Final Project in <b>Angular at the IT Academy of BCN Activa</b>.
 
-- 🌱 I’m currently learning **Angular, advanced Typescript, Rest API**
+- 🌱 I’m currently learning **Angular, JWT Authentication, NG Prime, and Angular Material Libraries.**
 
 - 👨‍💻 All of my projects are available at [carlosplanchart.com](https://www.carlosplanchart.com/) 
-
-- 💬 Ask me about **React, Node, Express, SASS, Typescript, Svelte**
 
 - 📫 How to reach me **carlos_planchart@live.com**
 
