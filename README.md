@@ -7,9 +7,9 @@
 
 <h3 align="left">About Me:</h3>
 
-- 🔭 I just completed my [Final Project](https://github.com/cplan85/Sprint9-Events-App) in <b>Angular at the IT Academy of BCN Activa</b>.
+- 🔭 I just completed my [Final Project](https://github.com/cplan85/Sprint9-Events-App) in <b>Angular at the IT Academy of Barcelona Activa</b>.
 
-- 🌱 I’m currently learning **Back-end server development with Node.js.**
+- 🌱 I’m currently learning ** Advanced back-end server development with Node.js.**
 
 - 👨‍💻 My personal website (including architecture (buildings!) work) at [carlosplanchart.com](https://www.carlosplanchart.com/) 
 
