@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning ** Advanced back-end server development with Node.js.**
 
-- 👨‍💻 My personal website (including architecture (buildings!) work) at [carlosplanchart.com](https://www.carlosplanchart.com/) 
+- 👨‍💻 My personal website (including architecture (buildings!) work) at [carlosplanchart.com](https://www.carlosplanchart.com/) ⚠️WIP 
 
 - 📫 How to reach me **carlos_planchart@live.com**
 
