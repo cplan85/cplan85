@@ -7,7 +7,7 @@
 
 <h3 align="left">About Me:</h3>
 
-- 🔭 I just graduated from the <b>Frontend Angular Bootcamp</b> at the IT Academy of BCN Activa. Check out my [Final Project Here](https://github.com/cplan85/Sprint9-Events-App)!
+- 🔭 I just graduated from the <b>Frontend Angular Bootcamp</b> at the IT Academy of BCN Activa. Check out my Full-Stack [Final Project Here](https://github.com/cplan85/Sprint9-Events-App)!
 
 - 🌱 I’m currently learning ** Advanced back-end server development with Node.js.**
 
