@@ -70,8 +70,9 @@
 
 | 💻 **Technology** | 🚀 **Projects** |
 | - | - |
-| [![Angular](https://img.shields.io/static/v1?label=&message=Angular&color=DD0031&logo=Angular&logoColor=FFFFFF)](https://angular.io/)  | [![Decathlon-Reto](https://img.shields.io/static/v1?label=&message=2022-NUWE-Decathlon-Challenge&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/cplan85/Angular-Decathlon-Reto) <img src="1stPrize.png" width="20"/>|
 | [![Angular](https://img.shields.io/static/v1?label=&message=Angular&color=DD0031&logo=Angular&logoColor=FFFFFF)](https://angular.io/)  | [![JTD-Reto](https://img.shields.io/static/v1?label=&message=2022-NUWE-Jornada-de-Talent-Digital&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/cplan85/hackathon-JTD) <img src="1stPrize.png" width="20"/>|
+| [![Angular](https://img.shields.io/static/v1?label=&message=Angular&color=DD0031&logo=Angular&logoColor=FFFFFF)](https://angular.io/)  | [![Decathlon-Reto](https://img.shields.io/static/v1?label=&message=2022-NUWE-Decathlon-Challenge&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/cplan85/Angular-Decathlon-Reto) <img src="1stPrize.png" width="20"/>|
+
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cplan85&" alt="cplan85" /></p>
