@@ -11,7 +11,7 @@
 
 - 🛠 Currently working on [IT Academy Business Assitant Project - Barcelona Activa](https://github.com/IT-Academy-BCN/BusinessAssistantBCN-frontend2)
 
-- 🌱 I’m currently learning Advanced back-end server development with Node.js, Relational databases with Postgres and SQL, and Three.js
+- 🌱 I’m currently learning Advanced back-end server development with Node.js, Relational databases with PostgreSQL, and Three.js
 
 - 👨‍💻 My personal website (including architecture (buildings!) work) at [carlosplanchart.com](https://www.carlosplanchart.com/) ⚠️WIP 
 
