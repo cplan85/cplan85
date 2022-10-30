@@ -9,6 +9,8 @@
 
 - 🔭 I just graduated from the <b>Frontend Angular Bootcamp</b> at the IT Academy of BCN Activa. Check out my [Final Project Here](https://github.com/cplan85/Sprint9-Events-App)!
 
+- 🛠 Currently working on [IT Academy Business Assitant Project - Barcelona Activa](https://github.com/IT-Academy-BCN/BusinessAssistantBCN-frontend2)
+
 - 🌱 I’m currently learning ** Advanced back-end server development with Node.js.**
 
 - 👨‍💻 My personal website (including architecture (buildings!) work) at [carlosplanchart.com](https://www.carlosplanchart.com/) ⚠️WIP 
