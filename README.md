@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning Advanced back-end server development with Node.js, Relational databases with PostgreSQL, and Three.js
 
-- 👨‍💻 Nov 2022 - **New Web Developer Portfolio** live [here](https://cplan85.github.io/Portfolio-2022/). As the new site is still in ongoing development, much of my personal website (including architecture work!) still available at [carlosplanchart.com](https://www.carlosplanchart.com/) ⚠️WIP 
+- 👨‍💻 Nov 2022 - **New Web Developer Portfolio** [live here](https://cplan85.github.io/Portfolio-2022/). As the new site is still in ongoing development, much of my personal website (including architecture work!) still available at [carlosplanchart.com](https://www.carlosplanchart.com/) ⚠️WIP 
 
 - 📫 How to reach me **carlos_planchart@live.com**
 
