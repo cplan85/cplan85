@@ -9,7 +9,7 @@
 
 - 🔭 I graduated from the <b>Frontend Angular Bootcamp</b> at the IT Academy of BCN Activa - Oct 2022. Check out my [Final Project Here](https://github.com/cplan85/Sprint9-Events-App)!
 
-- 🛠 Currently a member of the Frontend Angular Team working on the [IT Academy Business Assitant Project - Barcelona Activa](https://github.com/IT-Academy-BCN/BusinessAssistantBCN-frontend2)
+- 🛠 Currently a member of the Full-Stack Development Team working on the [Smart Locker Software for MegaBlok](https://community-locker.com/)
 
 - 🌱 I’m currently learning Advanced back-end server development with Node.js, Relational databases with PostgreSQL, and Three.js
 
