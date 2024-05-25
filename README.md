@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning Advanced back-end server development with Node.js, Relational databases with PostgreSQL, and Three.js
 
-- 👨‍💻 May 2024 - **Web Developer Portfolio** [LINK HERE](https://cplan85.github.io/Portfolio-2024/). As this site is still in ongoing development, much of my personal website (including architecture work!) still available at [carlosplanchart.com](https://www.carlosplanchart.com/) ⚠️WIP 
+- 👨‍💻 May 2024 - **Web Developer Portfolio 2024 Update** [LINK HERE](https://cplan85.github.io/Portfolio-2024/). As this site is still in ongoing development, much of my personal website (including architecture work!) still available at [carlosplanchart.com](https://www.carlosplanchart.com/) ⚠️WIP 
 
 - 📫 How to reach me **carlos_planchart@live.com**
 
@@ -31,7 +31,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p>
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="ReactNative" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=white" />
   <img alt="CSharp" src="https://img.shields.io/badge/C%23-007ACC?style=flat&logo=CSharp&logoColor=white" />
