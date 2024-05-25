@@ -35,7 +35,7 @@
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="ReactNative" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=white" />
   <img alt="CSharp" src="https://img.shields.io/badge/C%23-007ACC?style=flat&logo=CSharp&logoColor=white" />
-   <img alt="ASPEntityFramework" src="https://img.shields.io/badge/-ASP%20Entity%20Framework%20CORE-9932CC?style=for-the-badge&logo=.NET&logoColor=512BD4" />
+   <img alt="ASPEntityFramework" src="https://img.shields.io/badge/-ASP%20Entity%20Framework%20CORE-9932CC?style=flat-square&logo=.NET&logoColor=512BD4" />
    <img alt="Svelte" src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=flat-square&logo=svelte&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
