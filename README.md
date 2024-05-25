@@ -13,13 +13,13 @@
 
 - 🌱 I’m currently learning Advanced back-end server development with Node.js, Relational databases with PostgreSQL, and Three.js
 
-- 👨‍💻 Nov 2022 - **New Web Developer Portfolio** [LINK HERE](https://cplan85.github.io/Portfolio-2022/). As the new site is still in ongoing development, much of my personal website (including architecture work!) still available at [carlosplanchart.com](https://www.carlosplanchart.com/) ⚠️WIP 
+- 👨‍💻 May 2024 - **Web Developer Portfolio** [LINK HERE](https://cplan85.github.io/Portfolio-2024/). As this site is still in ongoing development, much of my personal website (including architecture work!) still available at [carlosplanchart.com](https://www.carlosplanchart.com/) ⚠️WIP 
 
 - 📫 How to reach me **carlos_planchart@live.com**
 
 - 📚 My Programming [Tiddly Wiki HERE](https://programming-help.tiddlyhost.com/)
 
-- ⚡ Fun fact **I salsa dance and do capoeira too!**
+- ⚡ Fun fact **I dance salsa and bachata and I also love to do calisthenics!**
 
 </br>
 <h3 align="left">Connect with me:</h3>
@@ -31,8 +31,11 @@
 <h3 align="left">Languages and Tools:</h3>
 <p>
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=white" />
+  <img alt="ReactNative" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=white" />
+  <img alt="CSharp" src="https://img.shields.io/badge/C%23-007ACC?style=flat&logo=CSharp&logoColor=white" />
+   <img alt="ASPEntityFramework" src="https://img.shields.io/badge/-ASP%20Entity%20Framework%20CORE-9932CC?style=for-the-badge&logo=.NET&logoColor=512BD4" />
    <img alt="Svelte" src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=flat-square&logo=svelte&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
