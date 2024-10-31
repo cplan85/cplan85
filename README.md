@@ -9,7 +9,7 @@
 
 - 🛠 Currently a member of the Full-Stack Development Team working on the [Smart Locker Software for MegaBlok](https://community-locker.com/)
 
-- 🌱 I’m currently learning Advanced full-stack developent with Reat, Vite, and .NET back-end development implementing the CQRS pattern architecture 
+- 🌱 I’m currently learning Advanced full-stack developent with React, Vite, and .NET back-end development implementing the CQRS pattern architecture 
 
 - 👨‍💻 May 2024 - **Web Developer Portfolio 2024 Update** [LINK HERE](https://carlos-planchart-portfolio.netlify.app/). As this site is still in ongoing development, much of my personal website (including architecture work!) still available at [carlosplanchart.com](https://www.carlosplanchart.com/) ⚠️WIP 
 
