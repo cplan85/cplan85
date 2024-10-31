@@ -1,5 +1,3 @@
-![image](profile-header.png)
-
 
 <p>Welcome to my page! </br> I'm Carlos, an Architect(buildings!) turned Full-stack developer originally from <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="13"/> <b>New Haven, Connecticut</b>, with 7 years of experience working in <img src="https://cdn-icons-png.flaticon.com/512/284/284489.png" width="13"/><b>New York City</b>, and currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197593.png" width="13"/> <b>Barcelona, Spain</b>. </p>
 
@@ -11,9 +9,9 @@
 
 - 🛠 Currently a member of the Full-Stack Development Team working on the [Smart Locker Software for MegaBlok](https://community-locker.com/)
 
-- 🌱 I’m currently learning Advanced back-end server development with Node.js, Relational databases with PostgreSQL, and Three.js
+- 🌱 I’m currently learning Advanced full-stack developent with Reat, Vite, and .NET back-end development implementing the CQRS pattern architecture 
 
-- 👨‍💻 May 2024 - **Web Developer Portfolio 2024 Update** [LINK HERE](https://cplan85.github.io/Portfolio-2024/). As this site is still in ongoing development, much of my personal website (including architecture work!) still available at [carlosplanchart.com](https://www.carlosplanchart.com/) ⚠️WIP 
+- 👨‍💻 May 2024 - **Web Developer Portfolio 2024 Update** [LINK HERE](https://carlos-planchart-portfolio.netlify.app/). As this site is still in ongoing development, much of my personal website (including architecture work!) still available at [carlosplanchart.com](https://www.carlosplanchart.com/) ⚠️WIP 
 
 - 📫 How to reach me **carlos_planchart@live.com**
 
