@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning Advanced full-stack developent with React, Vite, and .NET back-end development implementing the CQRS pattern architecture 
 
-- 👨‍💻 May 2024 - **Web Developer Portfolio 2024 Update** [LINK HERE](https://carlos-planchart-portfolio.netlify.app/). As this site is still in ongoing development, much of my personal website (including architecture work!) still available at [carlosplanchart.com](https://www.carlosplanchart.com/) ⚠️WIP 
+- 👨‍💻 **Web Developer Portfolio Update** [LINK HERE](https://carlos-planchart-portfolio.netlify.app/). As this site is still in ongoing development, much of my personal website (including architecture work!) still available at [carlosplanchart.com](https://www.carlosplanchart.com/) ⚠️WIP 
 
 - 📫 How to reach me **carlos_planchart@live.com**
 
